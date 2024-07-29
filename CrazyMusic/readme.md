@@ -41,7 +41,25 @@ streamlit run mainMusic.py
 - **Modificación de Velocidad**: Permite cambiar la velocidad del audio.
 
 ## Imágenes de la ejecución
- 
+Inicialmente
+![[https://github.com/yany1509/Yany/blob/Yanisbe/CrazyMusic/Fotos/1.png]] 
+
+Al cargar un audio
+![[https://github.com/yany1509/Yany/blob/Yanisbe/CrazyMusic/Fotos/2.png]]
+
+Características del audio
+![[https://github.com/yany1509/Yany/blob/Yanisbe/CrazyMusic/Fotos/3.png]]
+
+Espectograma
+![[https://github.com/yany1509/Yany/blob/Yanisbe/CrazyMusic/Fotos/4.png]]
+
+Onda
+![[https://github.com/yany1509/Yany/blob/Yanisbe/CrazyMusic/Fotos/5.png]]
+
+Cambiar velocidad
+![[https://github.com/yany1509/Yany/blob/Yanisbe/CrazyMusic/Fotos/6.png]]
+
+
 
 ## Estructura del Proyecto
 
