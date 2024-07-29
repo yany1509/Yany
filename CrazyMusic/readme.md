@@ -21,8 +21,7 @@ pip install streamlit librosa numpy matplotlib soundfile
 1. Clona este repositorio:
 
 ```bash
-git clone https://github.com/tu_usuario/tu_repositorio.git
-cd tu_repositorio
+git clone https://github.com/yany1509/Yany.git
 ```
 
 2. Ejecuta la aplicación de Streamlit:
