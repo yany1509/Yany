@@ -1,5 +1,6 @@
 # Proyecto de Procesamiento de Audio con Streamlit y Librosa: LyricFlow
-Descripción:
+
+## Descripción:
 Este proyecto permite subir un archivo de audio a una aplicación web creada con Streamlit, y muestra varias características del audio como su velocidad, tempo, duración, espectrograma, forma de onda, y permite cambiar la velocidad del audio.
 
 ## Requisitos
