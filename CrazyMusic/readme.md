@@ -40,6 +40,9 @@ streamlit run mainMusic.py
 - **Visualización**: Muestra el espectrograma y la forma de onda del audio.
 - **Modificación de Velocidad**: Permite cambiar la velocidad del audio.
 
+## Imágenes de la ejecución
+ 
+
 ## Estructura del Proyecto
 
 ```

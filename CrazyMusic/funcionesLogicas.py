@@ -35,7 +35,7 @@ def obtener_espectograma(audio, sr):
     st.pyplot(plt)
 
 def obtener_onda(audio, sr):
-    fig, ax = plt.subplots()
+    fig, ax = plt.subplots(figsize=(10,4))
     librosa.display.waveshow(y=audio, sr=sr, ax=ax)
     ax.set(title='Onda del Audio')
     st.pyplot(fig)
